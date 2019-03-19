@@ -145,14 +145,9 @@
 		<key>SkipHibernateTimeout</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>3</integer>
+		<integer>4</integer>
 		<key>XMPDetection</key>
 		<false/>
-	</dict>
-	<key>BootGraphics</key>
-	<dict>
-		<key>UIScale</key>
-		<integer>2</integer>
 	</dict>
 	<key>Devices</key>
 	<dict>
