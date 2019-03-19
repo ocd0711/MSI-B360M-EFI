@@ -20,7 +20,7 @@ SSD:HS-SSD-C2000
 SMBIOS:2018 Mac mini
 
 
-MSI B360m Mortar Hackintosh EFI FILE
+MSI B360M Mortar Hackintosh EFI FILE
 
     macOS Mojave 10.14.3
 
@@ -43,7 +43,7 @@ MSI B360m Mortar Hackintosh EFI FILE
     HDMI: OK
     
 ### Recommend BIOS version 7B23v13,the latest version is not compatible
-MSI B360 BIOS download link https://cn.msi.com/Motherboard/support/B360M-MORTAR
+MSI B360M BIOS download link https://cn.msi.com/Motherboard/support/B360M-MORTAR
 ![](https://ws1.sinaimg.cn/large/006tKfTcgy1g17x4xry0tj30pc075gm2.jpg)
 
 ![](https://ws3.sinaimg.cn/large/006tKfTcgy1g17x5ls3paj30ga09tdhs.jpg)
@@ -52,3 +52,6 @@ MSI B360 BIOS download link https://cn.msi.com/Motherboard/support/B360M-MORTAR
 ![](https://ws3.sinaimg.cn/large/006tKfTcgy1g17x748ku5j30ga0bi0tm.jpg)
 ![](https://ws1.sinaimg.cn/large/006tKfTcgy1g17x7ud2cmj30kv0eg0v8.jpg)
 ![](https://ws1.sinaimg.cn/large/006tKfTcgy1g17x88sq7lj30kv0eg0ve.jpg)
+
+
+Thanks [irelandKen](https://github.com/irelandKen/MSI-B360M-MORTAR-TITANIUM-EFI)
