@@ -14,9 +14,9 @@ https://github.com/SuperNG6/MSI-b360-10.14.2-EFI/tree/MSI-b360-10.14.2-EFI-USBPo
 
 
 
-CPU:i5 8400
+CPU:i5 9600K/i7 9900K
 GPU:UHD630
-SSD:SAM 960PRO
+SSD:HS-SSD-C2000
 SMBIOS:2018 Mac mini
 
 
@@ -37,21 +37,18 @@ MSI B360m Mortar Hackintosh EFI FILE
     Lilu version:1.3.1
 
     AppleALC:1.3.4
+
+    DP: OK
+
+    HDMI: OK
     
-### Please use DP, all B360 motherboards can not use HDMI
-### Recommend BIOS version 7B23v12,the latest version is not compatible
+### Recommend BIOS version 7B23v13,the latest version is not compatible
 MSI B360 BIOS download link https://cn.msi.com/Motherboard/support/B360M-MORTAR
-![示例图片加载失败](https://raw.githubusercontent.com/SuperNG6/pic/master/Hackintosh%20images/BIOS.png)
+![](https://ws1.sinaimg.cn/large/006tKfTcgy1g17x4xry0tj30pc075gm2.jpg)
 
-# Detail:
- [My Blog: sleele.com/2018/12/01/hackintosh/ ](http://sleele.com/2018/12/01/hackintosh/ "Blog")
-
-![示例图片加载失败](https://raw.githubusercontent.com/SuperNG6/pic/master/Hackintosh%20images/image-5.png)
-![示例图片加载失败](https://raw.githubusercontent.com/SuperNG6/pic/master/Hackintosh%20images/image-2.png)
-![示例图片加载失败](https://raw.githubusercontent.com/SuperNG6/pic/master/Hackintosh%20images/image-8.png)
-![示例图片加载失败](https://raw.githubusercontent.com/SuperNG6/pic/master/Hackintosh%20images/image-12.png)
-![示例图片加载失败](https://raw.githubusercontent.com/SuperNG6/pic/master/Hackintosh%20images/image-13.png)
-![示例图片加载失败](https://raw.githubusercontent.com/SuperNG6/pic/master/Hackintosh%20images/image-6.png)
-![示例图片加载失败](https://raw.githubusercontent.com/SuperNG6/pic/master/Hackintosh%20images/image-4.png)
-![示例图片加载失败](https://raw.githubusercontent.com/SuperNG6/pic/master/Hackintosh%20images/image-7.png)
-![示例图片加载失败](https://raw.githubusercontent.com/SuperNG6/pic/master/Hackintosh%20images/image-1.png)
+![](https://ws3.sinaimg.cn/large/006tKfTcgy1g17x5ls3paj30ga09tdhs.jpg)
+![](https://ws3.sinaimg.cn/large/006tKfTcgy1g17x68tjztj30ik0dudh9.jpg)
+![](https://ws4.sinaimg.cn/large/006tKfTcgy1g17x6jwyfcj30ik0dujsm.jpg)
+![](https://ws3.sinaimg.cn/large/006tKfTcgy1g17x748ku5j30ga0bi0tm.jpg)
+![](https://ws1.sinaimg.cn/large/006tKfTcgy1g17x7ud2cmj30kv0eg0v8.jpg)
+![](https://ws1.sinaimg.cn/large/006tKfTcgy1g17x88sq7lj30kv0eg0ve.jpg)
