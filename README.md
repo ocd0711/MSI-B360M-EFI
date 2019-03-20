@@ -1,6 +1,9 @@
+# Update 2019/03/20
+
+### Fix Boot in BIOS version 7B23v15(Thanks [irelandKen](https://github.com/irelandKen/MSI-B360M-MORTAR-TITANIUM-EFI))
+Add ACPI Patch(Fix RTC _STA bug)
+
 # Update 2019/03/19
-
-
 
 ### Fix Audio (Layout ID 15) and use Hackintool driver UHD630
     Update Clover version 4898 support macOS 10.14.4 beta6
@@ -36,9 +39,10 @@ MSI B360M Mortar Hackintosh EFI FILE
 
     HDMI: OK
     
-### Recommend BIOS version 7B23v13,the latest version is not compatible
+~~### Recommend BIOS version 7B23v13,the latest version is not compatible~~
 MSI B360M BIOS download link https://cn.msi.com/Motherboard/support/B360M-MORTAR
-![](https://ws1.sinaimg.cn/large/006tKfTcgy1g17x4xry0tj30pc075gm2.jpg)
+### Can use BIOS version 7B23v15
+![](https://ws4.sinaimg.cn/large/006tKfTcgy1g193yl960mj30ra08f0t9.jpg)
 
 ![](https://ws3.sinaimg.cn/large/006tKfTcgy1g17x5ls3paj30ga09tdhs.jpg)
 ![](https://ws3.sinaimg.cn/large/006tKfTcgy1g17x68tjztj30ik0dudh9.jpg)
