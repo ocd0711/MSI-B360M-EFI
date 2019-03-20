@@ -102,6 +102,23 @@
 				<key>FixWAK</key>
 				<false/>
 			</dict>
+			<key>Patches</key>
+			<array>
+				<dict>
+					<key>Comment</key>
+					<string>Fix RTC _STA bug</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					oAqTU1RBUwE=
+					</data>
+					<key>Replace</key>
+					<data>
+					oAqRCv8L//8=
+					</data>
+				</dict>
+			</array>
 			<key>ReuseFFFF</key>
 			<false/>
 			<key>SlpSmiAtWake</key>
