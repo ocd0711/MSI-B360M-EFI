@@ -1,5 +1,5 @@
 # Update 2019/03/23
-Fix hdmi (display of screen is messed.) 
+Fix hdmi (display of screen is messed.)
 
 # Update 2019/03/20
 
