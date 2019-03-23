@@ -1,3 +1,6 @@
+# Update 2019/03/23
+Fix hdmi (display of screen is messed.)
+
 # Update 2019/03/20
 
 ### Fix Boot in BIOS version 7B23v15(Thanks [irelandKen](https://github.com/irelandKen/MSI-B360M-MORTAR-TITANIUM-EFI))
