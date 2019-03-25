@@ -1,3 +1,10 @@
+# BUG
+Boot animation blinking
+
+# Update 2019/03/25
+Fix hdmi (display of screen is messed.)
+update clover v4901
+
 # Update 2019/03/23
 Fix hdmi (display of screen is messed.)
 
