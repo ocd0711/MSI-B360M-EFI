@@ -1,5 +1,10 @@
 # BUG
-Boot animation blinking
+~~~Boot animation blinking~~~
+You tell me
+
+# Update 2019/04/19
+update clover v4920
+update kexts
 
 # Update 2019/03/25
 Fix hdmi (display of screen is messed.)
