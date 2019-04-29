@@ -65,5 +65,3 @@ MSI B360M BIOS download link https://cn.msi.com/Motherboard/support/B360M-MORTAR
 ![](https://ws3.sinaimg.cn/large/006tKfTcgy1g17x748ku5j30ga0bi0tm.jpg)
 ![](https://ws1.sinaimg.cn/large/006tKfTcgy1g17x7ud2cmj30kv0eg0v8.jpg)
 ![](https://ws1.sinaimg.cn/large/006tKfTcgy1g17x88sq7lj30kv0eg0ve.jpg)
-
-Thanks [irelandKen](https://github.com/irelandKen/MSI-B360M-MORTAR-TITANIUM-EFI)
