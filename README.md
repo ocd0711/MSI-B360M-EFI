@@ -29,7 +29,7 @@
 
 ## Update 2019/03/20
 
-* ### Fix Boot in BIOS version 7B23v15(Thanks [irelandKen](https://github.com/irelandKen/MSI-B360M-MORTAR-TITANIUM-EFI))
+* ### Fix Boot in BIOS version 7B23v15
 * Add ACPI Patch(Fix RTC _STA bug)
 
 ## Update 2019/03/19
