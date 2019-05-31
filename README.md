@@ -7,6 +7,13 @@
 
 # Changelog
 
+## Update 2019/05/31
+* Update Clover 4934
+* Add customary USBPorts.kext (Internal HS01  Bluetooth)
+* Remove EmuVariableUefi-64.efi, fix [#2](https://github.com/OCD0711/MSI-B360M-EFI/issues/2)
+* Add AptioMemoryFix-64.efi, fix NVRAM
+* Update IntelMausiEthernet.kext
+
 ## Update 2019/05/16
 * Update Clover 4928 && Update AppleALC 1.3.7
 * Support macOS Mojave 10.14.5
