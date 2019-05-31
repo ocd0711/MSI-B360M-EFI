@@ -65,10 +65,6 @@ SMBIOS:2018 Mac mini
 
     WhateverGreen 1.2.6
 
-    USB3.0 5G (drop DSDT)
-
-    //USB3.0 5G add DSDT
-
     HibernationFixup 1.2.4
 
     Lilu version:1.3.1
@@ -78,6 +74,10 @@ SMBIOS:2018 Mac mini
     DP: OK
 
     HDMI: OK
+
+    WIFI: OK (BCM943602CS)
+
+    Bluetooth: OK (BCM943602CS)
     
 ~~### Recommend BIOS version 7B23v13,the latest version is not compatible~~
 
