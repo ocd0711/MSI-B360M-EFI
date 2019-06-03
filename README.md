@@ -1,11 +1,18 @@
 # Download
-[跳转下载](https://github.com/OCD0711/MSI-B360M-EFI/releases "点击跳转下载页")
+[Download](https://github.com/OCD0711/MSI-B360M-EFI/releases "点击跳转下载页")
 
 # BUG
 * ~~Boot animation blinking~~
 * You tell me
 
 # Changelog
+
+## Update 2019/06/03
+* Fix USBPorts.kext
+* Add SSDT fix usb
+
+## Update 2019/06/01
+* Fix bug
 
 ## Update 2019/05/31
 * Update Clover 4934
@@ -85,11 +92,11 @@ MSI B360M BIOS download link https://cn.msi.com/Motherboard/support/B360M-MORTAR
 
 ### Can use BIOS version 7B23v16
 
-![](https://ws4.sinaimg.cn/large/006tKfTcgy1g193yl960mj30ra08f0t9.jpg)
-
-![](https://ws3.sinaimg.cn/large/006tKfTcgy1g17x5ls3paj30ga09tdhs.jpg)
-![](https://ws3.sinaimg.cn/large/006tKfTcgy1g17x68tjztj30ik0dudh9.jpg)
-![](https://ws4.sinaimg.cn/large/006tKfTcgy1g17x6jwyfcj30ik0dujsm.jpg)
-![](https://ws3.sinaimg.cn/large/006tKfTcgy1g17x748ku5j30ga0bi0tm.jpg)
-![](https://ws1.sinaimg.cn/large/006tKfTcgy1g17x7ud2cmj30kv0eg0v8.jpg)
-![](https://ws1.sinaimg.cn/large/006tKfTcgy1g17x88sq7lj30kv0eg0ve.jpg)
+![](img/006tKfTcgy1g193yl960mj30ra08f0t9.jpg)
+![](img/006tKfTcgy1g17x5ls3paj30ga09tdhs.jpg)
+![](img/006tKfTcgy1g17x68tjztj30ik0dudh9.jpg)
+![](img/006tKfTcgy1g17x6jwyfcj30ik0dujsm.jpg)
+![](img/WX20190601-151909@2x.png)
+![](img/006tKfTcgy1g17x7ud2cmj30kv0eg0v8.jpg)
+![](img/006tKfTcgy1g17x88sq7lj30kv0eg0ve.jpg)
+![](img/WX20190601-151442@2x.png)
