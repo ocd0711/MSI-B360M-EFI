@@ -7,6 +7,16 @@
 
 # Changelog
 
+## 2019/06/04 (Support 10.15 beta)
+* Update clover 4937 (support Macos 10.15 beta)
+* Update virtualsmc 1.0.5 (support Macos 10.15 beta)
+* Update WhateverGreen (support Macos 10.15 beta)
+* Update AppleALC (support Macos 10.15 beta)
+* Update Lilu (support Macos 10.15 beta)
+* Add KernelPath fix 10.15 (temporary)
+![](img/WX20190604-122707.png)
+
+
 ## Update 2019/06/03
 * Fix USBPorts.kext
 * Add SSDT fix usb

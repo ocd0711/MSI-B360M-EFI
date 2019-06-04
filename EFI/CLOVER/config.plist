@@ -420,6 +420,22 @@
 				g/8/Dw==
 				</data>
 			</dict>
+			<dict>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				AIXAD4SHAAAASQ==
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>10.15</string>
+				<key>Replace</key>
+				<data>
+				AIXAkJCQkJCQSQ==
+				</data>
+			</dict>
 		</array>
 	</dict>
 	<key>KernelAndKextPatchesKextsToPatch</key>
@@ -452,7 +468,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C07841303GUA8</string>
+		<string>C07825101GUJC</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -482,9 +498,9 @@
 		<key>ProductName</key>
 		<string>Macmini8,1</string>
 		<key>SerialNumber</key>
-		<string>C07XJ4Y1JYVX</string>
+		<string>C07WWZZYJYVX</string>
 		<key>SmUUID</key>
-		<string>096E30FE-0DCF-4B6B-9FAD-F1F5EB48CEBC</string>
+		<string>5217C541-61CA-402D-8CED-F1303A3A6DDE</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
