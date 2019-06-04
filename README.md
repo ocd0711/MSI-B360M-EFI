@@ -103,6 +103,7 @@ MSI B360M BIOS download link https://cn.msi.com/Motherboard/support/B360M-MORTAR
 ### Can use BIOS version 7B23v16
 
 ![](img/006tKfTcgy1g193yl960mj30ra08f0t9.jpg)
+![](img/WX20190604-124112.png)
 ![](img/006tKfTcgy1g17x5ls3paj30ga09tdhs.jpg)
 ![](img/006tKfTcgy1g17x68tjztj30ik0dudh9.jpg)
 ![](img/006tKfTcgy1g17x6jwyfcj30ik0dujsm.jpg)
