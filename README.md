@@ -7,6 +7,10 @@
 
 # Changelog
 
+## 2019/06/04 (Support 10.15 beta) update2
+* fix bug
+* Update clover 4939
+
 ## 2019/06/04 (Support 10.15 beta)
 * Update clover 4937 (support Macos 10.15 beta)
 * Update virtualsmc 1.0.5 (support Macos 10.15 beta)
