@@ -7,6 +7,10 @@
 
 # Changelog
 
+## 2019/06/04 (Support 10.15 beta) update3
+* remove USBInjectAll
+* fix usb
+
 ## 2019/06/04 (Support 10.15 beta) update2
 * fix bug
 * Update clover 4939
