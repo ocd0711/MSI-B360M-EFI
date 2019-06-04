@@ -81,6 +81,9 @@ SSD:HS-SSD-C2000
 
 SMBIOS:2018 Mac mini
 
+## How to update
+* install git
+* git pull
 
 ## MSI B360M Mortar Hackintosh EFI FILE
 
