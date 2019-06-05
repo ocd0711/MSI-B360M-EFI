@@ -7,9 +7,17 @@
 
 # Changelog
 
+## 2019/06/05 (放假前更新最后一次修bug啦..., 目前来说 用这个 EFI 10.15 beta 没任何问题..10.14的话更别说了...溜~)
+* Update clover 4945
+* Remove temporary fix 10.15
+* Add USB Port limit patch #2 10.15.x modify by DalianSky
+* Add USB port limit patch #1 10.15.x modify by DalianSky(credit ydeng)
+* Disable panic kext logging on 10.15.4 Release kernel
+* fix bug
+
 ## 2019/06/04 (Support 10.15 beta) update3
-* remove USBInjectAll
-* fix usb
+* Remove USBInjectAll
+* Fix usb
 
 ## 2019/06/04 (Support 10.15 beta) update2
 * fix bug

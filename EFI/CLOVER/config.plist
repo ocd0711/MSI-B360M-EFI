@@ -394,6 +394,25 @@
 		<false/>
 		<key>KernelPm</key>
 		<true/>
+		<key>KernelToPatch</key>
+		<array>
+			<dict>
+				<key>Comment</key>
+				<string>Disable panic kext logging on 10.15.4 Release kernel</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				AIoChMB0
+				</data>
+				<key>MatchOS</key>
+				<string>10.14.4,10.14.5</string>
+				<key>Replace</key>
+				<data>
+				AIoChMDr
+				</data>
+			</dict>
+		</array>
 		<key>KextsToPatch</key>
 		<array>
 			<dict>
@@ -477,19 +496,43 @@
 				</data>
 			</dict>
 			<dict>
+				<key>Comment</key>
+				<string>USB port limit patch #1 10.15.x modify by DalianSky(credit ydeng)</string>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
 				<data>
-				AIXAD4SHAAAASQ==
+				g/sPDw==
 				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
+				<key>MatchOS</key>
+				<string>10.15.x</string>
 				<key>Name</key>
-				<string>10.15</string>
+				<string>com.apple.iokit.IOUSBHostFamily</string>
 				<key>Replace</key>
 				<data>
-				AIXAkJCQkJCQSQ==
+				g/s/Dw==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>USB Port limit patch #2 10.15.x modify by DalianSky</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				g/kPDw==
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>MatchOS</key>
+				<string>10.15.x</string>
+				<key>Name</key>
+				<string>com.apple.driver.usb.AppleUSBXHCI</string>
+				<key>Replace</key>
+				<data>
+				g/k/Dw==
 				</data>
 			</dict>
 		</array>
