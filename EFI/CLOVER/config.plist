@@ -340,8 +340,8 @@
 		<key>Hide</key>
 		<array>
 			<string>BOOTX64.EFI</string>
-			<string>Recovery</string>
 			<string>Preboot</string>
+			<string>Recovery</string>
 		</array>
 		<key>Language</key>
 		<string>zh_CN:0</string>
@@ -579,7 +579,7 @@
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>220.250.330.0.0</string>
+		<string>220.207.27.0.0</string>
 		<key>Family</key>
 		<string>Mac mini</string>
 		<key>FirmwareFeatures</key>

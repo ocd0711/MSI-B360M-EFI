@@ -7,6 +7,10 @@
 
 # Changelog
 
+## 2019/06/20
+* Fix bug
+* Improve stability
+
 ## 2019/06/05 (放假前更新最后一次修bug啦..., 目前来说 用这个 EFI 10.15 beta 没任何问题..10.14的话更别说了...溜~)
 * Update clover 4945
 * Remove temporary fix 10.15
