@@ -106,7 +106,7 @@
 			<array>
 				<dict>
 					<key>Comment</key>
-					<string>Fix RTC _STA bug</string>
+					<string>Fix MSI B360M Mortal DSDT Device(RTC) bug on BIOS v1.60</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
@@ -394,25 +394,6 @@
 		<false/>
 		<key>KernelPm</key>
 		<true/>
-		<key>KernelToPatch</key>
-		<array>
-			<dict>
-				<key>Comment</key>
-				<string>Disable panic kext logging on 10.15.4 Release kernel</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				AIoChMB0
-				</data>
-				<key>MatchOS</key>
-				<string>10.14.4,10.14.5</string>
-				<key>Replace</key>
-				<data>
-				AIoChMDr
-				</data>
-			</dict>
-		</array>
 		<key>KextsToPatch</key>
 		<array>
 			<dict>
