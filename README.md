@@ -7,6 +7,9 @@
 
 # Changelog
 
+## 2019/06/29
+* Fix bug
+
 ## 2019/06/27
 * Update Clover 4977
 * Replace OsxAptioFixDrv-64.efi with OsxAptioFix2Drv-free2000.efi & Enhanced compatibility
