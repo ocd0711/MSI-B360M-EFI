@@ -1,11 +1,53 @@
 # Download
 [Download](https://github.com/OCD0711/MSI-B360M-EFI/releases "点击跳转下载页")
 
+# INFO
+>>>
+CPU:i5 9600K GPU:UHD630 SSD:HIKVISION C2000 SMBIOS:2018 Mac mini
+
+    macOS Mojave 10.15 beta
+
+    Clover 5027
+
+    AppleALC 1.3.7
+
+    IntelMausi 1.0.0
+
+    Lilu 1.3.6
+
+    USBInjectAll 0.7.1
+
+    VirtualSMC 1.0.4
+
+    WhateverGreen 1.2.9
+
+    DP: OK
+
+    HDMI: OK
+
+    WIFI: OK (BCM943602CS)
+
+    Bluetooth: OK (BCM943602CS)
+
 # BUG
 * ~~Boot animation blinking~~
 * You tell me
 
 # Changelog
+
+## 2019/07/24
+* Update Clover 5027
+* Replace OsxAptioFix2Drv-free2000.efi with OsxAptioFixDrv-64.efi & Enhanced compatibility
+* Add bootanimation
+* Update ApfsDriverLoader-64.efi DataHubDxe-64.efi
+* Fix unable sleep
+
+## 2019/06/29
+* Update Clover 5027
+* Replace OsxAptioFix2Drv-free2000.efi with OsxAptioFixDrv-64.efi & Enhanced compatibility
+* Add bootanimation
+* Update ApfsDriverLoader-64.efi DataHubDxe-64.efi
+* Fix unable sleep
 
 ## 2019/06/29
 * Fix bug
@@ -104,28 +146,6 @@ SMBIOS:2018 Mac mini
 ## How to update
 * install git
 * git pull
-
-## MSI B360M Mortar Hackintosh EFI FILE
-
-    macOS Mojave 10.14.5
-
-    Clover version:4925
-
-    WhateverGreen 1.2.6
-
-    HibernationFixup 1.2.4
-
-    Lilu version:1.3.1
-
-    AppleALC: 1.3.7
-
-    DP: OK
-
-    HDMI: OK
-
-    WIFI: OK (BCM943602CS)
-
-    Bluetooth: OK (BCM943602CS)
     
 ~~### Recommend BIOS version 7B23v13,the latest version is not compatible~~
 
