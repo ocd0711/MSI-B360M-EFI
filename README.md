@@ -5,29 +5,30 @@
 >>>
 CPU:i5 9600K GPU:UHD630 SSD:HIKVISION C2000 SMBIOS:2018 Mac mini
 
-    macOS Mojave 10.15 beta
+macOS Mojave 10.15 beta
 
-    Clover 5027
+Clover 5027
 
-    AppleALC 1.3.7
+AppleALC 1.3.7
 
-    IntelMausi 1.0.0
+IntelMausi 1.0.0
 
-    Lilu 1.3.6
+Lilu 1.3.6
 
-    USBInjectAll 0.7.1
+USBInjectAll 0.7.1
 
-    VirtualSMC 1.0.4
+VirtualSMC 1.0.4
 
-    WhateverGreen 1.2.9
+WhateverGreen 1.2.9
 
-    DP: OK
+DP: OK
 
-    HDMI: OK
+HDMI: OK
 
-    WIFI: OK (BCM943602CS)
+WIFI: OK (BCM943602CS)
 
-    Bluetooth: OK (BCM943602CS)
+Bluetooth: OK (BCM943602CS)
+>>>
 
 # BUG
 * ~~Boot animation blinking~~
